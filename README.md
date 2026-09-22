@@ -1,13 +1,13 @@
 # SBT-DF203-Lab7: DNS Introduction and Traffic Analysis
 
-A formal digital forensics investigation analyzing Domain Name System (DNS) resolution mechanics, query/response structure, and network connection correlation. This lab establishes a normal DNS baseline—evaluating transaction IDs, record types (A, AAAA, MX, NS), TTL cache lifetimes, and browser/application query inventories using `dig`, `tshark`, and `wireshark`.
+A formal digital forensics investigation analyzing Domain Name System (DNS) resolution mechanics, query/response structure, and network connection correlation. This lab establishes a normal DNS baseline-evaluating transaction IDs, record types (A, AAAA, MX, NS), TTL cache lifetimes, and browser/application query inventories using `dig`, `tshark`, and `wireshark`.
 
 ---
 
 ## 📌 Investigation Overview
 
 - **Lead Examiner:** Nebeuwa Ifeanyichukwu Raphael
-- **Course & Lab:** SBT-DF203 — Basic Networking Skills for Digital Forensics (Lab 7)
+- **Course & Lab:** SBT-DF203 - Basic Networking Skills for Digital Forensics (Lab 7)
 - **Primary Tools:** `dig` (`dnsutils`), `tshark`, `wireshark`, `resolvectl`, `sha256sum`
 - **Environment:** Kali Linux VM running in an authorized, isolated virtual environment
 
